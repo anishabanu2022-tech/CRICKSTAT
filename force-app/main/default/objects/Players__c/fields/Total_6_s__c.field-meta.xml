@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Total_6_s__c</fullName>
+    <label>Total 6&apos;s</label>
+    <summarizedField>Match_Performance__c.Sixes__c</summarizedField>
+    <summaryForeignKey>Match_Performance__c.Player__c</summaryForeignKey>
+    <summaryOperation>sum</summaryOperation>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

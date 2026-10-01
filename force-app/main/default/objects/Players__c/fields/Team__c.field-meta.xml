@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Team__c</fullName>
+    <label>Team</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Chennai Super Kings</fullName>
+                <default>false</default>
+                <label>Chennai Super Kings</label>
+            </value>
+            <value>
+                <fullName>Mumbai Indians</fullName>
+                <default>false</default>
+                <label>Mumbai Indians</label>
+            </value>
+            <value>
+                <fullName>Royal Challengers Bengaluru</fullName>
+                <default>false</default>
+                <label>Royal Challengers Bengaluru</label>
+            </value>
+            <value>
+                <fullName>Kolkata Knight Riders</fullName>
+                <default>false</default>
+                <label>Kolkata Knight Riders</label>
+            </value>
+            <value>
+                <fullName>Sunrisers Hyderabad</fullName>
+                <default>false</default>
+                <label>Sunrisers Hyderabad</label>
+            </value>
+            <value>
+                <fullName>Rajasthan Royals</fullName>
+                <default>false</default>
+                <label>Rajasthan Royals</label>
+            </value>
+            <value>
+                <fullName>Delhi Capitals</fullName>
+                <default>false</default>
+                <label>Delhi Capitals</label>
+            </value>
+            <value>
+                <fullName>Lucknow Super Giants</fullName>
+                <default>false</default>
+                <label>Lucknow Super Giants</label>
+            </value>
+            <value>
+                <fullName>Gujarat Titans</fullName>
+                <default>false</default>
+                <label>Gujarat Titans</label>
+            </value>
+            <value>
+                <fullName>Punjab Kings</fullName>
+                <default>false</default>
+                <label>Punjab Kings</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
